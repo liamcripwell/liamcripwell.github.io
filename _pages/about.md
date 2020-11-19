@@ -9,7 +9,7 @@ profile:
   image: 20200620_093848.jpg #prof_pic.jpg
   address: >
     <i class="fas fa-paperclip"></i>
-    <a href="/al-folio/assets/pdf/example_pdf.pdf">CV/Resume</a>
+    <a href="/assets/pdf/lcripwell_cv.pdf">CV/Resume</a>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
