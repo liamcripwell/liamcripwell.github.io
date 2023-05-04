@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a second-year PhD student working in the [SyNaLP](https://synalp.loria.fr/){:target="\_blank"} team of [LORIA](https://loria.fr/){:target="\_blank"}, under the supervision of [Claire Gardent](https://members.loria.fr/CGardent/){:target="\_blank"} and [Joël Legrand](http://joel-legrand.fr/hugo/){:target="\_blank"}. My research is focused on the use of linguistic structure within neural text generation tasks.
+I am a third-year PhD student working in the [SyNaLP](https://synalp.loria.fr/){:target="\_blank"} team of [LORIA](https://loria.fr/){:target="\_blank"}, under the supervision of [Claire Gardent](https://members.loria.fr/CGardent/){:target="\_blank"} and [Joël Legrand](http://joel-legrand.fr/hugo/){:target="\_blank"}. My research is focused on the use of linguistic structure within neural text generation tasks.
 
 Before starting my PhD I was a machine learning engineer at [Notiv](http://notiv.com){:target="\_blank"} where I worked on the implementation and deployment of machine learning products for natural language and speech applications.
 
