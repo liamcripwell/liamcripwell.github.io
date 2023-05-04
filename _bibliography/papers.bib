@@ -3,19 +3,39 @@
 
 @string{aps = {American Physical Society,}}
 
-@inproceedings{cripwell-etal-2023-planning,
-  abbr={EACL},
-  title = "Document-Level Planning for Text Simplification (TO APPEAR)",
+@inproceedings{cripwell-etal-2023-context,
+  abbr={ACL},
+  title = "Context-Aware Document Simplification (TO APPEAR)",
   author = {Cripwell, Liam  and
     Legrand, Jo{\"e}l  and
     Gardent, Claire},
-  booktitle = "EACL 2023",
-  month = may,
+  booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+  month = jul,
   year = "2023",
-  address = "Dubrovnik, Croatia",
+  address = "Toronto, Canada",
   publisher = "Association for Computational Linguistics",
   selected={true}
 }
+
+@inproceedings{cripwell-etal-2023-document,
+    abbr={EACL},
+    title = "Document-Level Planning for Text Simplification",
+    author = {Cripwell, Liam  and
+      Legrand, Jo{\"e}l  and
+      Gardent, Claire},
+    booktitle = "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics",
+    month = may,
+    year = "2023",
+    address = "Dubrovnik, Croatia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.eacl-main.70",
+    html={https://aclanthology.org/2023.eacl-main.70/},
+    pdf={https://aclanthology.org/2023.eacl-main.70.pdf},
+    pages = "993--1006",
+    abstract="Most existing work on text simplification is limited to sentence-level inputs, with attempts to iteratively apply these approaches to document-level simplification failing to coherently preserve the discourse structure of the document. We hypothesise that by providing a high-level view of the target document, a simplification plan might help to guide generation. Building upon previous work on controlled, sentence-level simplification, we view a plan as a sequence of labels, each describing one of four sentence-level simplification operations (copy, rephrase, split, or delete). We propose a planning model that labels each sentence in the input document while considering both its context (a window of surrounding sentences) and its internal structure (a token-level representation). Experiments on two simplification benchmarks (Newsela-auto and Wiki-auto) show that our model outperforms strong baselines both on the planning task and when used to guide document-level simplification models.",
+    selected={true},
+}
+
 
 @inproceedings{cripwell-etal-2022-controllable,
     abbr={NAACL},
