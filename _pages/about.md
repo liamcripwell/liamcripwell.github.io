@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: PhD student @ <a href="http://loria.fr">LORIA</a>
+description: AI Researcher & Engineer
 
 profile:
   align: right
@@ -16,7 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a final year PhD student working in the [SyNaLP](https://synalp.loria.fr/){:target="\_blank"} team of [LORIA](https://loria.fr/){:target="\_blank"}, under the supervision of [Claire Gardent](https://members.loria.fr/CGardent/){:target="\_blank"} and [Joël Legrand](http://joel-legrand.fr/hugo/){:target="\_blank"}. My research is focused on controllable and document-level approaches to text simplification.
+I am a recent PhD graduate who has been working in the [SyNaLP](https://synalp.loria.fr/){:target="\_blank"} team of [LORIA](https://loria.fr/){:target="\_blank"}, under the supervision of [Claire Gardent](https://members.loria.fr/CGardent/){:target="\_blank"} and [Joël Legrand](http://joel-legrand.fr/hugo/){:target="\_blank"}. My PhD research was focused on controllable and document-level approaches to text simplification.
+
+I have broad research interests including generative NLP models, evaluation, controllability/alignment, and information retrieval. I am also passionate about applications of NLP and machine learning to accessability and medical/health domains. 
 
 Before starting my PhD I was a machine learning engineer at [Notiv](http://notiv.com){:target="\_blank"} where I worked on the implementation and deployment of machine learning products for natural language and speech applications.
 
