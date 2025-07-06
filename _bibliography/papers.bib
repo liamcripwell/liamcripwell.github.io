@@ -3,6 +3,25 @@
 
 @string{aps = {American Physical Society,}}
 
+@inproceedings{cripwell-etal-2024-evaluating,
+    abbr={LREC-COLING},
+    title = "Evaluating Document Simplification: On the Importance of Separately Assessing Simplicity and Meaning Preservation",
+    author = {Cripwell, Liam  and
+      Legrand, Jo{\"e}l  and
+      Gardent, Claire},
+    editor = "Wilkens, Rodrigo  and
+      Cardon, R{\'e}mi  and
+      Todirascu, Amalia  and
+      Gala, N{\'u}ria",
+    booktitle = "Proceedings of the 3rd Workshop on Tools and Resources for People with REAding DIfficulties (READI) @ LREC-COLING 2024",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.readi-1.1/",
+    pages = "1--14",
+    abstract = "Text simplification intends to make a text easier to read while preserving its core meaning. Intuitively and as shown in previous works, these two dimensions (simplification and meaning preservation) are often-times inversely correlated. An overly conservative text will fail to simplify sufficiently, whereas extreme simplification will degrade meaning preservation. Yet, popular evaluation metrics either aggregate meaning preservation and simplification into a single score (SARI, LENS), or target meaning preservation alone (BERTScore, QuestEval). Moreover, these metrics usually require a set of references and most previous work has only focused on sentence-level simplification. In this paper, we focus on the evaluation of document-level text simplification and compare existing models using distinct metrics for meaning preservation and simplification. We leverage existing metrics from similar tasks and introduce a reference-less metric variant for simplicity, showing that models are mostly biased towards either simplification or meaning preservation, seldom performing well on both dimensions. Making use of the fact that the metrics we use are all reference-less, we also investigate the performance of existing models when applied to unseen data (where reference simplifications are unavailable)."
+}
 
 @inproceedings{cripwell2023simplicity,
     abbr={EMNLP},
