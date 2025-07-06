@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently a machine learning scientist at [NuMind](https://numind.ai) where I am working on NuExtract, a family of LLMs specialized for multi-modal information extraction.
+I am a machine learning scientist at [NuMind](https://numind.ai) where I primarily work on [NuExtract](https://huggingface.co/numind), a family of LLMs specialized for multi-modal information extraction.
 
 I have broad research interests including language models, evaluation, controllability/alignment, and information retrieval. I am also passionate about applications of NLP and machine learning to accessability, medicine/health-care, and other human-facing domains. 
 
