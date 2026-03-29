@@ -1,0 +1,12 @@
+{
+  "name": "liamcripwell-site",
+  "version": "1.0.0",
+  "description": "Liam Cripwell's personal website",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
